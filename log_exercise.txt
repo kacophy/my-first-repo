@@ -1,0 +1,24 @@
+git log
+commit 60193400944c5062299830085ffdcee2e250f4a9
+Author: karen <karen.whitemanjones@gmail.com>
+Date:   Mon Sep 10 08:42:41 2018 -0400
+
+    added filename to gitignore
+
+commit 1fe3305dd1aea6b0048200f83e74143aefaca196
+Author: karen <karen.whitemanjones@gmail.com>
+Date:   Mon Sep 10 08:28:37 2018 -0400
+
+    added gitignore
+
+commit 4dfc6be8d84543ed077500251ba53b10a0150d72
+Author: karen <karen.whitemanjones@gmail.com>
+Date:   Fri Aug 31 08:16:43 2018 -0400
+
+    added two files
+
+commit ca15b711930e8c24ce7af3a96243aa51ac562256
+Author: karen <karen.whitemanjones@gmail.com>
+Date:   Fri Aug 31 08:08:56 2018 -0400
+
+    added readme.txt
